@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/order-app/static/css/main.6bd4b4d1.css",
+    "main.js": "/order-app/static/js/main.e45eb12a.js",
+    "static/media/bag.png": "/order-app/static/media/bag.c0b20df765f996bcc635.png",
+    "index.html": "/order-app/index.html",
+    "main.6bd4b4d1.css.map": "/order-app/static/css/main.6bd4b4d1.css.map",
+    "main.e45eb12a.js.map": "/order-app/static/js/main.e45eb12a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd4b4d1.css",
+    "static/js/main.e45eb12a.js"
+  ]
+}
